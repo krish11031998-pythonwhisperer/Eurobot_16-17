@@ -282,12 +282,12 @@ void drive(int speed, int turnspeed, float wd1, float wd2, int acceleration) {
   }
   motorStop();
   delay(250);
-  tempEncoder1 = 0; //(abs(encoder1()) - wd1);
+  tempEncoder1 = (abs(encoder1()) - wd1);
   Serial.println("WD1");
   Serial.println(wd1);
   Serial.println("WD2");
   Serial.println(wd2);
-  tempEncoder2 = 0; //(abs(encoder2()) - wd2);
+  tempEncoder2 = (abs(encoder2()) - wd2);
   Serial.println("TEMPENCODER1");
   Serial.println(tempEncoder1);
   Serial.println("TEMPENCODER2");
