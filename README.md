@@ -7,4 +7,7 @@ Along with the obstacle avoidance, the robot also had a movement correction cont
 
 Check out our robot in function : https://drive.google.com/open?id=15_n_ncAKkAu3KVsDw43r1AXe7SbF6uFC
 
+![Image of the Eurobot]
+(https://drive.google.com/open?id=10v1a1comGfq8vviHQ9H5CAuyCBessSRo)
+
 Have fun coding !!
