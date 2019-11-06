@@ -10,7 +10,7 @@ The eurobot had the following hardware components in the control system:
 * MD25 : Motor controller
 * Motors
 
-Check out our robot in function : https://drive.google.com/open?id=15_n_ncAKkAu3KVsDw43r1AXe7SbF6uFC
+![Check out our robot in function :] (https://drive.google.com/open?id=15_n_ncAKkAu3KVsDw43r1AXe7SbF6uFC)
 
 ![Image of the Eurobot]
 (https://raw.githubusercontent.com/krish11031998-pythonwhisperer/Eurobot_16-17/master/Eurobot.png)
